@@ -47,19 +47,19 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'kinflux boₜ 🐉'
+global.botname = 'iswar boₜ 🐉'
 global.premium = 'true'
-global.packname = 'toxic┃ᴮᴼᵀ' 
-global.author = 'zamzack254' 
-global.igfg = '▢ Follow on Instagram\nhttps://chat.whatsapp.com/KggVmnH7ki6HoyD0025gDD\n' 
-global.dygp = 'https://chat.whatsapp.com/KggVmnH7ki6HoyD0025gDD'
-global.fgsc = 'https://github.com/diggilly/kinflux-bot' 
-global.fgyt = 'https://chat.whatsapp.com/KggVmnH7ki6HoyD0025gDD'
+global.packname = 'iswar' 
+global.author = 'iswar' 
+global.igfg = '' 
+global.dygp = ''
+global.fgsc = '' 
+global.fgyt = ''
 global.fgpyp = ''
 global.fglog = 'https://raw.githubusercontent.com/diggilly/kinflux-bot/main/Guru.jpg' 
 
 
-global.wait = '*⌛ _kinflux bot loading..._*\n*▰▰▰▱▱▱▱▱*'
+global.wait = '*⌛ _iswar bot loading..._*\n*▰▰▰▱▱▱▱▱*'
 global.rwait = '⌛'
 global.dmoji = '🤭'
 global.done = '✅'
